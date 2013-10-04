@@ -1,8 +1,8 @@
 Backups of xmonad config files.
 
-xmobarrc - xmobar config
-Xdefaults - urxvt config
-xmonad.hs - Xmonad config
+xmobarrc - xmobar config, ~/.xmobarrc
+Xdefaults - urxvt config, ~/.Xdefaults
+xmonad.hs - Xmonad config, ~/.xmonad/xmonad.hs
 
 Requires:
 * Xmonad
